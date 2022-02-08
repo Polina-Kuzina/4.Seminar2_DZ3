@@ -1,0 +1,30 @@
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.csproj.AssemblyReference.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.AssemblyInfoInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.AssemblyInfo.cs
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.csproj.CoreCompileInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\22.exe
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\22.deps.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\22.runtimeconfig.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\ref\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\bin\Debug\net6.0\22.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\ref\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22\obj\Debug\net6.0\22.genruntimeconfig.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\22.exe
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\22.deps.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\22.runtimeconfig.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\ref\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\bin\Debug\net6.0\22.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.csproj.AssemblyReference.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.AssemblyInfoInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.AssemblyInfo.cs
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.csproj.CoreCompileInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\ref\22.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ3 (18,20,22,24)\22 copy\obj\Debug\net6.0\22.genruntimeconfig.cache
